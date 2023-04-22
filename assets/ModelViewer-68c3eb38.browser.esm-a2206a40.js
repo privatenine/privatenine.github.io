@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/ModelViewer-68c3eb38.browser.esm-a2206a40.js
 import{R as bm,s as Au}from"./index-36bd711b.js";/**
-========
-import{R as bm,s as Au}from"./index-dcdd3112.js";/**
->>>>>>>> 42283da000438c28bee8c5de2f71b47afea1dd2a:assets/ModelViewer-68c3eb38.browser.esm-ebc7b18d.js
  * @license
  * Copyright 2017 Google LLC
  * SPDX-License-Identifier: BSD-3-Clause
